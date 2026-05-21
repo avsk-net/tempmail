@@ -1,0 +1,11 @@
+{
+  "name": "tempmail-smtp",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "mailparser":  "^3.7.1",
+    "node-fetch":  "^2.7.0",
+    "smtp-server": "^3.13.4"
+  }
+}
